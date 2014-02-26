@@ -1,4 +1,4 @@
-ios-restkit-demo
+iOS RestKit Demo
 ================
 
-Nur ein kleines persönliches Testdemo zum arbeiten mit RestKit
+Nur ein kleines, persönliches Testdemo zum testen des RestKit Frameworks.
